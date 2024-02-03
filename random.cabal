@@ -84,6 +84,7 @@ library
     exposed-modules:
         System.Random
         System.Random.Internal
+        System.Random.Seed
         System.Random.Stateful
     other-modules:
         System.Random.GFinite
